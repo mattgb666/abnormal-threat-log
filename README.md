@@ -1,6 +1,6 @@
 # Search the Abnormal Threat Log via API
 
-Script will pull a list of up to 2000 threat campaigns (via “pageSize=2000” query parameter), between a specific date range, that contain attachments (via "attackVector=Attachment" query parameter), then iterate through each threat campaign and pull the attachment name.
+threats-with-attachments-list-attchment-name.py will pull a list of up to 2000 threat campaigns (via “pageSize=2000” query parameter), between a specific date range, that contain attachments (via "attackVector=Attachment" query parameter), then iterate through each threat campaign and pull the attachment name.
 
 
 # Output Example
