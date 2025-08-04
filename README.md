@@ -41,7 +41,7 @@ Reformatting this we see the unique abxMessageId with attachment name on each li
 
 The abxMessageId value can be used in the Abnormal portal to retrieve the threat log entry in question e.g.:
 
-https://portal.abnormalsecurity.com/home/threat-center/remediation-history/&lt;abxMessageId>
+https://portal.abnormalsecurity.com/home/threat-center/remediation-history/<abxMessageId>
 
 
 # Setup
