@@ -1,3 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Filename: threats-with-attachments-list-attchment-name.py
+Author: Matt Berry
+Date: 2025-08-08
+Version: 1.1
+Description:
+This script uses the Abnormal API to fetch a list of threats with attachments then iterates
+through the list to pull the attachment name and threat ID
+"""
+
 import http.client
 import sys
 import json
